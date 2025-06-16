@@ -347,7 +347,6 @@
 *.qit
 *.qpx
 *.ram
-*.rar
 *.raw
 *.rb
 *.rbf
