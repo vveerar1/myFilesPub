@@ -218,6 +218,7 @@
 *.loop-vbs
 *.ls
 *.lz
+*.lzh
 *.m3u
 *.m4a
 *.mac
